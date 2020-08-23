@@ -1,3 +1,7 @@
+# Code adapted from
+# Raspberry Pi Cookbook Software and Hardware Problems and Solutions, 2nd Edition, O Reilly
+# by Simon Monk
+
 import RPi.GPIO as GPIO
 import time
 
